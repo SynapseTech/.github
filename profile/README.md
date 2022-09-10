@@ -1,5 +1,5 @@
 # Synapse Technologies LLC
-We're a small organization of primarily JS and Java developers who aim to bring you new quality-of-life software as well as tools for doing your job.
+We're a small organization of primarily JS and Java developers who aim to bring you new quality-of-life software as well as tools for doing your job. We're focusing on a solid suite of team tools to supercharge your internal productivity.
 
 ## What we're currently doing
 Right now we're launching [TimezoneDB](https://tzdb.synapsetech.dev), an easy, cross-platform method of keeping track of other people's timezones.
